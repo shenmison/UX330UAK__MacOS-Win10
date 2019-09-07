@@ -11,9 +11,9 @@ Model: UX330UAK
 
 Bios: 311
 
-CPU: 2.71GHz Intel i7-7500U (0x606)
+CPU: 2.71GHz Intel i7-7500U 
 
-GPU: Intel HD620 1536MB (0x5916)
+GPU: Intel HD620 1536MB 
 
 RAM: 1867MHz Micron 8GB Dual Channel LPDDR3
 
